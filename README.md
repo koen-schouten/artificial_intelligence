@@ -5,6 +5,6 @@ These algorithms were covered during the course Kunstmatige Intilligentie of the
 
 These algorithms are explained in: 
 
-Artificial Intelligence: Foundations of Computational Agents
-David L. Poole and Alan K. Mackworth
+Artificial Intelligence: Foundations of Computational Agents  
+David L. Poole and Alan K. Mackworth  
 Second edition, Cambridge University Press
