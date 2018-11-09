@@ -1,4 +1,4 @@
-# artificial_intelligence
+# Artificial Intelligence
 
 This repo contains a number of Artifical Intelligence related algorithms implemented in python. 
 These algorithms were covered during the course Kunstmatige Intilligentie of the Open Universiteit.
